@@ -1,9 +1,9 @@
 It takes a few minutes to scrounge up the last bits of gear they need.
 
-Janna keeps her coat, bag and glasses, and adds her usual beanie, which makes
+Janna keeps her coat and glasses, and adds her usual beanie, which makes
 her look like a teenager out of a cult 80's high school drama film. Jackie ditches
 most of her armor in favor of street clothes, but keeps the harness that holds her
-small arsenal of personal weaponry.
+small arsenal of personal weaponry, and the cloak.
 
 "You look like you're going off to fight a war," Rafael says with grave concern.
 
@@ -30,7 +30,7 @@ They arrive in front of the palace. It's impossible to cut a portal to within th
 royal castle, unless your blades are on a very short list of approved scissors.
 
 The guards, of course, immediately takes notice of three heavily armed teenagers
-arriving at the gates.
+and a dragoncycle arriving at the gates.
 
 "Halt!" one of them calls out. "State your business!"
 
@@ -45,7 +45,7 @@ The guard turns to the other. "Call the captain!"
 
 In very short order, word is passed up the chain of command, and then down again,
 and the gates are opened and Marco, Janna and Jackie are led through the spacious corridors
-of Castle Butterfly.
+of Castle Butterfly, while Nachos is stabled in the royal stables.
 
 The guard captain raps on the door to a certain room thrice, and Queen Moon Butterfly opens the
 door and steps outside. She dismisses the captain with a gesture, and he hurries away.
@@ -146,7 +146,7 @@ obvious, something is off about it. Janna looked at it once, but for her that is
 
 "Marco?" Janna asks.
 
-The pages are _off_.
+The whole thing is _off_.
 
 "Yeah," he concurs. "Star, I need a moment alone with you, the Starknights and this book."
 
@@ -164,10 +164,4 @@ a page of paper, but all of the parchments are hale.
 
 "What are you saying?" Star asks.
 
-Marco turns the book over, and opens the inside cover, examining it. There's something
-under the paper on the inside of the back-cover. He draws a knife and cuts a hole through which he pulls
-a paper note.
-
-> _Recognition Code 927: I am a Potato_
-
-"I know how we are going to save Glossaryk, but we can't tell your mom," Marco says.
+"This isn't the real book," Marco says. "It's a fake."
