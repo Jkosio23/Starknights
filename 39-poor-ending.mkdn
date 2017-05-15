@@ -1,34 +1,4 @@
-Nachos takes off; the Warnicorns panic and leap aside, throwing Tammy and Star off.
-Star lands perfectly, Tammy not so much.
-
-"That thing is a Shoggoth!" Tammy yells. "Don't let it touch you! Kill it with fire!"
-
-Jackie appears next to Tammy, picks her up, and vanishes.
-
-A thorny tentacle skewers one of the warnicorns and pulls it into the writhing chaos.
-
-"_Thermite termite termination_" Star incants, and a million white hot projectiles
-shoot from her wand into the coiling monstrosity.
-
-It writhes and doesn't die.
-
-Janna unleashes a pillar of fire with a word of power from high
-above, charring the flesh of the creature further.
-Then it gives a ripple, and charred flesh falls off, revealing grotesque new pink underneath.
-Tentacles lash out at Star and Janna, and Star flashes into her Mewoman form.
-
-Then Jackie reappears with a bandoleer of hand grenades, dripping with red blood;
-nonchalantly pulls all the pins with the connected wire and tosses it at the monster.
-A maw opens to catch the false food, and a second and a half later, the massive body
-is rocked with explosions. It writhes and regurgitates an enormous foul-smelling mass
-of blood and guts, which it them starts _eating_.
-
-"Stand back!" Star yells. Then she takes into the air, and verifying that nobody is near
-the monster, she takes aim and incants: "___Atomic Dragon Howitzer___."
-
-----
-
-Once the temporary blindness passes, Jackie sees what happened in-between the massive
+Once the tempoary blindness passes, Jackie sees what happened in-between the massive
 dragon-head growing out of Star's wand, and the ear-splitting explosion.
 
 There's literally nothing left. Of the Shoggoth, or the hillside behind it.
@@ -92,7 +62,7 @@ Tammy comes running from where Jackie hid her. "What happened?"
 
 "It got Marco," Jackie says.
 
-Marco coughs, and droplets of blood fly from her lips.
+Marco coughs, and droples of blood fly from her lips.
 
 "_She's bleeding--- punctured lung?_" Jackie mutters. "_Damned broken ribs!_"
 
@@ -158,7 +128,9 @@ she keeps coughing up blood all the while; breathing in a rasp.
 
 Janna takes a deep breath and puts a hand over it, then she starts chanting
 melodiously in two voices and a language that sounds inherently off-kilter.
-There's a snap, and Marco yelps. Then a sizzle and she coughs out a wisp of smoke.
+
+There's a snap, and Marco yelps. Then a sizzle and Marco coughs out a whisp
+of smoke.
 
 "Did it work?" Star asks, anxiously.
 
@@ -170,7 +142,7 @@ Marco stirs, and braces on arm against the ground, pushing herself upright. She 
 
 "Marco, you need to _lie down,_" Jackie says. "You're very hurt, and---"
 
-"I'm fine," Marco says. "What happened? Is Heinous okay?"
+"I'm fine," Marco says. "What happened?"
 
 Janna is the first to answer. "Gemini exploded into a thing called a Shoggoth. It
 took off your arm and threw you off the cliff. Star burned it to slag."
@@ -179,39 +151,100 @@ Marco looks down at her left arm, and clenches the fist. "How?"
 
 "I used Rasticore," Star says.
 
-"You used---" Marco says. "Wait, I--- Rasticore is a Septarsian like Toffee?"
+"Feels weird," Marco says. "Wait, Rasticore is a Septarsian like Toffee?"
 
 "Yeah," Janna says. "And you got powers from the monster arm too. You're thinking
 you absorbed Rasticore's regeneration?"
 
-Marco struggles to her feet. "Feels that way. It's getting better by the second."
+Marco struggels to her feet. "Feels that way. It's getting better by the second."
 
 Jackie pounces Marco with a hug, almost knocking her over. "I thought you were going
-to die!" she hisses, and a tear rolls down her cheek.
+to die!" she says.
 
-Marco winces, uncomfortable with the pain and the physical contact.
+Marco winces. "Ow, still sore..."
 
-Jackie pulls back, then puts a hand to Marco's forehead. "Marco, you're burning up."
+----
 
-"I feel fine, it's not like---" she manages; then staggers and collapses.
+Heinous sits and cries quietly on the cart for the rest of the way back to
+the site where they cut the portal they arrived through, and it puts a dampener
+on the otherwise jovial mood. Star, of course, had to summon a new warnicorn for
+Janna and Tammy.
 
-Jackie huffs in frustration, and starts digging through the first-aid kit for a
-thermometer. Once she finally finds one --- infrared --- and forces Marco's jaws apart to read
-off the back of her throat, the results are not encouraging.
+"What I don't understand is--- that Shoggoth was clearly Toffee's work," Star
+says. "Did he lie?"
 
-"104 and rising fast," Jackie says. "If we don't cool her down, she'll die. Janna?"
+"Not if he implanted it in Gemini weeks ago," Tammy says. "He said he'd cease his
+current machinations against us --- in a way that does not preclude traps laid against
+us in advance."
 
-Janna doesn't even ask for clarification; she makes a quick series of gestures, then
-exhales a plume of condensation --- a thin layer of rime forms over Marco's clothes
-and skin.
+"Well, the trap _failed_," Star says. "We're all still here."
 
-Jackie forces Marco's mouth open to take another reading. "Okay, that slowed it a little;
-keep an eye on her for a second---" she says and Steps away. Within a few seconds, the
-roar of Nacho's engine sounds.
+"Except for Rasticore and Gemini," Marco adds solemnly.
 
-They get Marco onto the dragonbike, and Star foregoes summoning any sort of steed
-for the rest of them. She picks up Heinous like so much luggage, and Tammy in a bridal
-carry, then conjures a rope and tosses it to Janna.
+Heinous makes a quiet noise somewere between a huff and a sob.
 
-As Jackie throttles Nachos to maximum power, Star flaps her powerful wings and takes off
-with Janna behind her in tow like a kite.
+----
+
+They arrive in the courtyard to a welcoming committee: servants, guards, a few curious
+nobles and the Queen herself.
+
+"Hello, mother," Star says. "The mission was a success."
+
+Moon lets her eyes glide over the five teens and their mounts, noticing the little
+signs of sturggle --- most notably Marco's replacement outfit, and the fact that one
+of the two Warnicorns is not the same that they left with.
+
+"I would like a full debrief later," Moon says. "Cousin?"
+
+Heinous slides down from the cart, and walks around to face the queen, hed hanging
+low. "Hello, my Queen," she says quietly.
+
+Moon smiles --- but not as genuinely as possible. "We will get you settled
+as soon as possible; you must be tired after this ordeal."
+
+"Yes; thank you."
+
+A master servant with a pompous moustache
+steps forward. "Right this way, m'lady; I will take you to your quarters."
+
+Heinous looks up with runny eye-makeup then trudges after him.
+
+-----
+
+For once, they hold a meeting with the Queen in Star's room.
+"I can see you are all tired," she says.
+
+Marco in particular is eyeing Star's soft and fluffy bed.
+
+"We were ambushed," Jackie says. "Toffee had left a booby trap inside
+Gemini, which almost killed Marco."
+
+"A Shoggoth," Tammy adds. "Probably planted long enough ago as to evade
+his promise of tempoary non-agression."
+
+Queen Moon nods. "As is his style. I am so sorry I put you in danger---"
+
+"Mom, we _chose_ to go do this," Star says.
+
+"I can write up a full report later, if you'd like, your Highness," Jackie says.
+
+"Yes; thank you, Dame Thomas. For now, I shall leave you to rest."
+Then she turns and leaves.
+
+"Is it me or is it hot in here?" Marco says, once she's sure the Queen is out
+of earshot.
+
+"No?" Star asks. "Not really."
+
+Tammy steps up to Marco and puts a hand on her forehead. "You're feverish."
+
+Marco chuckles. "Oh. Damn; maybe I got an infection from falling in that lake?"
+
+"You should get some rest," Tammy says.
+
+Marco nods. "I'm really tired, too."
+
+"That's what you get from being beaten half---," Janna quips.
+
+She's interrupted by Marco. "I'm getting light-headed," is all she manages
+to say before losing consciousness and collapsing.
