@@ -1,0 +1,93 @@
+
+# Character building exercise
+
+## Big 5/OCEAN
+
+Marco/Jennifer
+
+* Openness: Mid
+* Conscientiousness: High
+* Extraversion: Low
+* Agreeableness: High
+* Neuroticism: Mid
+
+Star
+
+* Openness: High
+* Conscientiousness: Low
+* Extraversion: High
+* Agreeableness: Mid
+* Neuroticism: High
+
+Tom/Tammy
+
+* Openness: Mid
+* Conscientiousness: High
+* Extraversion: High
+* Agreeableness: Low
+* Neuroticism: Low
+
+Janna
+
+* Openness: High
+* Conscientiousness: Mid
+* Extraversion: Low
+* Agreeableness: Mid
+* Neuroticism: Low
+
+Jackie
+
+* Openness: Mid
+* Conscientiousness: High
+* Extraversion: Mid
+* Agreeableness: Mid
+* Neuroticism: High
+
+## 5 Love Languages
+
+Marco/Jennifer
+
+1. Company
+2. Affirmation
+
+Star
+
+1. Gifting
+2. Company
+
+Tom/Tammy
+
+1. Devotion
+2. Gifting
+
+Janna
+
+1. Intimacy
+2. Devotion
+
+Jackie
+
+1. Affirmation
+2. Intimacy
+
+## One Big Lie
+
+Marco/Jennifer
+
+* _"I must give everyone the benefit of the doubt."_
+
+Star
+
+* _"I don't understand anything."_
+
+Tom/Tammy
+
+* _"It's my penance to put others before myself."_
+
+Janna
+
+* _"I'm a fraud."_
+
+Jackie
+
+* _"I don't deserve it."_
