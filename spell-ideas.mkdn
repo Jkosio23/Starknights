@@ -1,0 +1,34 @@
+# Unstoppable Ursa Berserker
+
+Type: Summon
+
+Effect: Creates a gigantic monster bear a la Mor'du from Brave.
+
+# Thermite Termite Termination
+
+Type: Summon/Blast
+
+Effect: Fires a hailstorm of incandescently hot insects
+
+# Tungsten Triceratops Trainwreck
+
+Type: Summon/Blast
+
+Effect: Creates a 1000 tonne unstoppable monster that plows through any obstacle
+for miles.
+
+# _The Darkest Spell_
+
+Type: Pact
+
+Incantation:
+
+> I call the darkness unto me,  
+> From deepest depths of earth and sea.  
+> To blackest night, I pledge my soul  
+> And crush my heart to summon forth:  
+> A deathly and unholy power,  
+> to see my hated foe devoured  
+
+
+
