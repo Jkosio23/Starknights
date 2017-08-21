@@ -73,3 +73,4 @@
 
 60. The Desperate Need to Become Stronger
 61. Bane, Boon, Bond
+62. Upgrade (Redux)
