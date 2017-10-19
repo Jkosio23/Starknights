@@ -27,9 +27,9 @@ you at a later date."
 "Sure," Jennifer says, and looks past the horned girl at her computer screen --- there's a stylized
 map of Europe on it. "Is that Diplomacy?"
 
-Tammy blushes. "Er, yeah. It's to keep the realpolitk-al mind sharp, you know?"
+Tammy blushes. "Er, yeah. It's to keep the realpolitkal mind sharp, you know?"
 
-Jennifer nods, and unbeknowst to Tammy, recognizes the game board. She's Germany in
+Jennifer nods, and unbeknownst to Tammy, recognizes the game board. She's Germany in
 that game. Tammy, it would appear, is Russia.
 "How many do you play at once?"
 
@@ -56,12 +56,12 @@ of her games to Tammy as well. She beings making plans and plots and sketching a
 ----
 
 There is a time and a place for clandestine meetings between the conspirators of corporate espionage, and
-it is at a café at the strip mall on a sunny afternoon.
+that time and place is at a café at the strip mall on a sunny afternoon.
 
 Jackie is back in her usual shorts and shirt and Janna has is back in her beanie. "So, what do you have
 for me?" Jackie asks.
 
-"Sympathetic tokens. There's some air-gapped servers in some shielded server rooms I want you to access and
+"Sympathetic tokens. There's some partially air-gapped servers in some shielded server rooms I want you to access and
 place _these_ ---" Janna slides a plastic bag full of sand across the table "--- as close as you can to the
 servers."
 
@@ -73,9 +73,9 @@ to read some data."
 
 Jackie puts the sand in her pocket. "Target?"
 
-Janna takes out a folded piece of paper. "It's in New York; you will need to use your Scissors."
+Janna takes out a folded piece of paper. "60 Hudson Street. It's in New York; you will need to use your Scissors."
 
-Jackies awareness goes to the underused silver scissors tattooed on her wrist. The shapeshifting
+Jackie's awareness goes to the underused silver scissors tattooed on her wrist. The
 Quicksilver Shears, as she calls them, writhe against her innate magic in response.
 
 "And I just get in, sprinkle some sand, get out?"
@@ -86,7 +86,7 @@ Jackie nods. "As for payment: movie night, you and me."
 
 "Sure," Janna says.
 
-"In a cinemaxx theater," Jackie says. "Alone."
+"In a Cinemaxx theater," Jackie says. "Alone."
 
 Janna tilts her head. "Well played."
 
